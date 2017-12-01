@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+#Build files
+/src/Release
+/src/Release_x32
+/src/.vs
+
